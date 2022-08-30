@@ -114,3 +114,38 @@
 //     alert("puede entrar");
 // }
 
+// let valor = true;
+// let valor1 = false;
+
+//&& (operador y) es verdadero cuando las condiciones son verdaderas
+// || (operador 0) es verdadero cuando al menos una de las condiciones es verdadera, en caso contrario es falso
+// && || es false
+// ! es diferente
+
+// let nombre = prompt("Ingresa un nombre");
+
+// if ((nombre !== "") && (nombre === "ANDRES" || nombre === "andres")){
+//     alert("Hola " +  nombre);
+// }
+// else{
+//     alert("quien eres?");
+// }
+
+// let numero = parseInt(prompt("Ingrese numero"))
+
+// if (numero % 2 = 0){
+//     alert("es par")
+// }
+// else {
+//     alert("es impar")
+// }
+
+
+// let numero = parseInt(prompt("Ingrese numero"))
+
+// if (numero % 2 != 0){
+//     alert("es impar")
+// }
+// else {
+//     alert("es par")
+// }
